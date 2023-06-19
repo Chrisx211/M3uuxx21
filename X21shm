@@ -1,0 +1,32 @@
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MNC GRUP", RCTI
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+
+https://1d-rcti.rctiplus.id/rcti-sdi.m3u8?auth_key=1687175549-63574cee47cdbe5500bff331bb765b59-0-e6997265113b40876dc27e9c250e0652
+
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MNC GRUP", MNCTV
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+
+https://1d-mnctv.rctiplus.id/mnctv-sdi.m3u8?auth_key=1687174425-3178d79531c4dc54426be53082c2d6ef-0-1bef4108c124a132272e9cad6463aefa
+
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MNC GRUP", GTV
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+
+https://1d-gtv.rctiplus.id/gtv-sdi.m3u8?auth_key=1687174442-55261de3ed920cb286a4e90daff50348-0-0afafb81bcb4123e4751237342e0b3cf
+
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MNC GRUP", INEWS
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+
+https://1d-inews.rctiplus.id/inews-sdi.m3u8?auth_key=1687174457-2f747f8af066a7bb3c97359c4151f642-0-847739931a7a65ed0b591cdf89ed2b7a
+
